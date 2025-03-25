@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+-- Poslao sam ti ovako jer nisam znao kako drugacije da ti saljem domaci za SQL, ti javi da li je u redu ovako ili treba nekako drugacije.
+
+
+
+
+
+
+
+
+
+
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
